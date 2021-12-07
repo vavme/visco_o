@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Visco Ooi&#39;nco</title>
-    <link>https://example.com/</link>
+    <link>https://vavme.github.io/visco_o/</link>
     <description>Recent content in Data Science Portfolio on Visco Ooi&#39;nco</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Dec 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Dec 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://vavme.github.io/visco_o/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1 : Building ML models to detect paddy diseases</title>
-      <link>https://example.com/post/chapter-1/</link>
+      <link>https://vavme.github.io/visco_o/post/chapter-1/</link>
       <pubDate>Mon, 06 Dec 2021 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/chapter-1/</guid>
+      <guid>https://vavme.github.io/visco_o/post/chapter-1/</guid>
       <description>(These pages are under development)
 Background Population Grows but Production Fell    One of the Main Causes  Our main objective is to minimize human error and detect the diseases as early as possible. By detecting the diseases early, farmer could trim and sterilize the infected parts to stop and avoid the spread of the diseases infection which could lead into harvest failure.
 Final Model To detect rice diseases, we use a CNN model.</description>
@@ -20,10 +20,10 @@ Final Model To detect rice diseases, we use a CNN model.</description>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://vavme.github.io/visco_o/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://vavme.github.io/visco_o/contact/</guid>
       <description>(These pages are currently under development)
    Platform URL     LinkedIn: https://www.linkedin.com/in/visco-o/   Email: Visco.ooinco@gmail.com    </description>
     </item>
